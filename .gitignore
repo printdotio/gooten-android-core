@@ -1,0 +1,24 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+local.properties
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Gradle
+build/
+captures/
+.gradle
+
+*.classpath
+*.DS_Store
+
+# JavaDoc
+javadoc/
